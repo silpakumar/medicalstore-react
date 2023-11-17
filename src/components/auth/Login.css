@@ -1,0 +1,53 @@
+/* body, html {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  /* background-color: #2cdede88; */
+
+  
+ 
+
+/* .outside {
+     background-color: #2cdede88; 
+     height: 100%;
+
+
+} */
+
+/* .container-fluid {
+  background-color: #2cdede88;
+  height: 100%;
+}  */
+
+.bg-image {
+    background-image: url('./med.jpg');
+    background-repeat: no-repeat;
+    background-size:contain;
+    min-height: 80px;
+    margin-top: 50px;
+    background-position: center center;
+  
+    
+  } 
+    .form-group {
+      margin-bottom: 50px;
+    }
+    
+    .alert-danger {
+      background-color: #c9c6c6;
+      border-color: #b0abac;
+      color: #721c24;
+      padding: 10px;
+      border-radius: 4px;
+    }
+    
+    .btn-primary {
+      background-color: #007bff;
+      color: #fff;
+      
+    }
+    
+    .btn-primary:hover {
+      background-color: #074e99;
+    }
+    
